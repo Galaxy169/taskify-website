@@ -7,7 +7,7 @@ import feature4 from "../../public/feature-4.png";
 const features = [
   {
     title: "AI Task Prioritization",
-    text: "Struggling with what to do next? TaskFlow’s AI-powered prioritization analyzes deadlines, urgency, and workload to suggest the most important tasks. Stay on track effortlessly without feeling overwhelmed. Let AI optimize your daily workflow so you can focus on what truly matters!",
+    text: "Struggling with what to do next? Taskify AI-powered prioritization analyzes deadlines, urgency, and workload to suggest the most important tasks. Stay on track effortlessly without feeling overwhelmed. Let AI optimize your daily workflow so you can focus on what truly matters!",
     image: feature1,
   },
   {
@@ -17,12 +17,12 @@ const features = [
   },
   {
     title: "Analytics & Reports",
-    text: "Gain insights into your productivity with TaskFlow’s smart analytics! Track your daily, weekly, and monthly progress with visual reports and detailed breakdowns. Identify patterns, optimize workflows, and celebrate milestones to stay motivated and productive every step of the way.",
+    text: "Gain insights into your productivity with Taskify smart analytics! Track your daily, weekly, and monthly progress with visual reports and detailed breakdowns. Identify patterns, optimize workflows, and celebrate milestones to stay motivated and productive every step of the way.",
     image: feature3,
   },
   {
     title: "Sync Across Devices",
-    text: "Access your tasks anywhere with real-time cloud sync! TaskFlow seamlessly updates across mobile, tablet, and desktop, so your tasks are always at your fingertips. Whether you're at work, home, or on the go, your to-dos stay organized, ensuring continuous workflow without disruptions.",
+    text: "Access your tasks anywhere with real-time cloud sync! Taskify seamlessly updates across mobile, tablet, and desktop, so your tasks are always at your fingertips. Whether you're at work, home, or on the go, your to-dos stay organized, ensuring continuous workflow without disruptions.",
     image: feature4,
   },
 ];
