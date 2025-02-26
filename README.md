@@ -24,6 +24,6 @@ A simple landing page built with **React** and styled using **React-Bootstrap**
 
 
 ## Preview
-Visit the website for preview: [https://thequizy.netlify.app](https://thequizy.netlify.app/)
+Visit the website for preview: [https://taskify-website1.netlify.app/](https://taskify-website1.netlify.app/)
 
 ---
