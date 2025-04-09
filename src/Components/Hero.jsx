@@ -26,7 +26,7 @@ function Hero() {
             sm={5}
             className="d-flex d-sm-block flex-wrap justify-content-center mt-5"
           >
-            <Image src="/hero-image.png" fluid rounded className="lazy" />
+            <Image src="/hero-image.webp" loading="lazy" fluid rounded className="lazy" />
           </Col>
         </Row>
       </Container>

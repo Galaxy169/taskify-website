@@ -1,8 +1,8 @@
 import { Row, Col, Image, Container } from "react-bootstrap";
-import feature1 from "../../public/feature-1.png";
-import feature2 from "../../public/feature-2.png";
-import feature3 from "../../public/feature-3.png";
-import feature4 from "../../public/feature-4.png";
+import feature1 from "../../public/feature-1.webp";
+import feature2 from "../../public/feature-2.webp";
+import feature3 from "../../public/feature-3.webp";
+import feature4 from "../../public/feature-4.webp";
 
 const features = [
   {
@@ -37,7 +37,7 @@ function Features() {
             className="align-items-center justify-content-center flex-sm-row flex-column-reverse text-sm-start text-center gx-5 p-5 border-top rounded-top"
           >
             <Col sm={5} className="pt-4 pt-sm-0">
-              <Image src={feature.image} fluid roundedCircle />
+              <Image src={feature.image} fluid roundedCircle loading="lazy" />
             </Col>
             <Col flex-column-reverse>
               <h1>{feature.title}</h1>
